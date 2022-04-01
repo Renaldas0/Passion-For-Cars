@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Lora:ital@1&family=Oswald:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    font-family: Lora,sans-serif;
+    color:#f2f2f2;
+    background-color: #000;
+}
+
+h1, h2 {
+    font-family: Lora,sans-serif;
+    font-weight: 250;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #D7A000;
+}
+
+#logo{
+    font-size: 300%;
+    float: left;
+    margin-left: 30px;
+    padding-top: 5px;
+}
+
+   /* links for navigation */
+#navbar{
+    font-size: 120%;
+    letter-spacing: 5px;
+}
+
+#logo, #navbar{
+    line-height: 80px;
+}
+
+#navbar li{
+    float: right;
+    list-style: none;
+    margin-right: 30px;
+    display: inline;
+}
+#navbar a{
+    text-decoration:none;
+    color: inherit;
+}
+
+#porsche-image{
+    width: 100%;
+    height: 400px;
+    clear: both;
+    background: url(../css/images/porsche.jpg) center
+    
+}
