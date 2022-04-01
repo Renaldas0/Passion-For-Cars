@@ -3,3 +3,6 @@ Passion for cars is a site that aims to attract more people into the car enthusi
 
 <h2>history of cars link</h2>
 <p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
+
+<h2>Nicholas Joseph Cugnot</h2>
+<p>https://en.wikipedia.org/wiki/Nicolas-Joseph_Cugnot</p>
