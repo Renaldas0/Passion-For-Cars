@@ -9,7 +9,7 @@
 body{
     font-family: Lora,sans-serif;
     color:#f2f2f2;
-    background-color: #000;
+    background-color: #1b1b1b;
 }
 
 h1, h2 {
@@ -47,10 +47,22 @@ h1, h2 {
     text-decoration:none;
     color: inherit;
 }
+
+#navbar a:hover {
+    color: aqua;
+
+}
+
+.active {
+    border-bottom: 1px dotted #D7A000;
+}
+
 #porsche-image{
     width: 100%;
     height: 400px;
     clear: both;
+    overflow: hidden;
+    position: relative;
     background: url(../css/images/porsche.jpg) center
     
 }
