@@ -71,8 +71,10 @@ h1, h2 {
     font-size: 175%;
 }
 
-#history {
-    width: 45%;
+#history > div {
+    width: 35%;
     margin-left: 5px;
     letter-spacing: 1px;
 }
+
+
