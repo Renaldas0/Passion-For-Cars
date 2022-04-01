@@ -47,4 +47,10 @@ h1, h2 {
     text-decoration:none;
     color: inherit;
 }
-
+#porsche-image{
+    width: 100%;
+    height: 400px;
+    clear: both;
+    background: url(../css/images/porsche.jpg) center
+    
+}
