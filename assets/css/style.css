@@ -112,4 +112,28 @@ h1, h2 {
     height: 100%;
 }
 
+/* footer */
+footer{
+    height: 120px;
+    background-color: black;
+}
+
+.social-media{
+    text-align: center;
+}
+
+.social-media > li{
+    display: inline;
+}
+
+#main-footer h4{
+    text-align: center;
+}
+
+.social-media a{
+    color: aqua;
+    text-decoration: none;
+}
+
+
 
