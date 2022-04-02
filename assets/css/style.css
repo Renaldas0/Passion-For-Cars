@@ -5,7 +5,7 @@
     padding: 0;
     border: none;
 }
-
+/* main header and navbar styling*/
 body{
     font-family: Lora,sans-serif;
     color:#f2f2f2;
@@ -56,6 +56,7 @@ h1, h2 {
 .active {
     border-bottom: 1px dotted #D7A000;
 }
+/* main background image*/
 
 #porsche-image{
     width: 100%;
@@ -66,7 +67,7 @@ h1, h2 {
     background: url(../css/images/porsche.jpg) center;
 }
 
-/* history section background testing*/
+/* car history section */
 #history{
     background-color: black;
     width: 100%;
