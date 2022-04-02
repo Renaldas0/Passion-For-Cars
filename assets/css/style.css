@@ -128,12 +128,15 @@ footer{
 
 #main-footer h4{
     text-align: center;
+    font-size: 120%;
+    color: #D7A000;
 }
 
-.social-media a{
-    color: aqua;
-    text-decoration: none;
+.social-media i{
+    font-size: 150%;
+    color: #f2f2f2;
+    margin: 20px 30px 0 30px;
+    padding: 15px;
 }
-
 
 
