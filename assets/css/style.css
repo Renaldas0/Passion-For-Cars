@@ -168,6 +168,7 @@ footer{
     height: 280px;
 }
 
-hr{
-    color:#fff;
+#videos{
+    width: 640px;
+    height: 420px;
 }
