@@ -139,4 +139,13 @@ footer{
     padding: 15px;
 }
 
+#images{
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
 
+#images > img{
+    width: 100%;
+}
