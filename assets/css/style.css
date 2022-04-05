@@ -64,7 +64,7 @@ h1, h2 {
     clear: both;
     overflow: hidden;
     position: relative;
-    background: url(../css/images/porsche.jpg) center no-repeat;
+    background: url(../images/porsche.jpg) center no-repeat;
 }
 
 /* car history section */
@@ -129,7 +129,7 @@ footer{
 }
 
 #main-footer{
-    position: relative;
+    position: fixed;
 }
 
 .social-media{
@@ -171,4 +171,24 @@ footer{
 #videos{
     width: 640px;
     height: 420px;
+}
+
+/* sign up form page*/
+#form-section{
+    clear: left;
+    background: url(../images/skyline.jpg) no-repeat bottom;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.form-signup{
+    position: absolute;
+    left: 10%;
+    margin: 40px 10% 0 0;
+    max-width: 450px;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 35px;
+    box-sizing: border-box;
+    
 }
