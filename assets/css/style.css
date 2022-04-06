@@ -224,7 +224,7 @@ footer h4{
 
 /* Media queries*/
 
-/* Media queries for medium width devices up to 1200px */
+/* Media queries for medium width devices up to 1200px Home page */
 @media screen and (max-width:1200px) {
     #history{
         width: 100%;
@@ -249,7 +249,16 @@ footer h4{
         float: right;
         margin: 5%;
     }
+    /* Gallery page */
+    #images{
+        clear: both;
+        line-height: 0;
+        column-count: 3;
+        column-gap: 0px;
 }
+
+
+
 
 /* Media queries for small width devices up to 900px */
 @media screen and (max-width:900px) {
@@ -271,4 +280,10 @@ footer h4{
         float: left;
         margin-left: 30px;
     }
+    /* gallery page*/
+    #images{
+        clear: both;
+        line-height: 0;
+        column-count: 2;
+        column-gap: 0px;
 }
