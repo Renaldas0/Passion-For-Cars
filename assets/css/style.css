@@ -84,7 +84,7 @@ h1, h2 {
 }
 
 #history h2 a{
-    text-decoration: none;
+    text-decoration: underline;
     color: #D7A000;
     font-size: 150%;
 }
