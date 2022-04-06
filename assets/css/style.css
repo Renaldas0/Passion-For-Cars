@@ -250,3 +250,19 @@ footer h4{
         margin: 5%;
     }
 }
+
+/* Media queries for small width devices up to 900px */
+@media screen and (max-width:900px) {
+    #history .ford{
+        width: 80%;
+        height: 350px;
+        margin: 5% 10% 5% 10%;
+    }
+
+    #history .beetle{
+        width: 80%;
+        height: 350px;
+        margin: 5% 10% 5% 10%;
+        display: block;
+    }
+}
