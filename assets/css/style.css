@@ -118,6 +118,7 @@ h1, h2 {
 /* footer */
 footer{
     height: 150px;
+    clear: both;
 }
 
 footer h4{
@@ -138,6 +139,7 @@ footer h4{
 }
 
 .social-media i{
+    text-align: center;
     font-size: 160%;
     margin: 0.5%;
     padding: 4%;
@@ -223,3 +225,23 @@ footer h4{
 /* Media queries*/
 
 /* Media queries for medium width devices up to 1200px */
+@media screen and (max-width:1200px) {
+    #history{
+        width: 100%;
+
+    }
+
+    #history .left-side{
+        width: 100%;
+        text-align: center;
+    }
+
+    .ford{
+        margin-left: 10%;
+       
+    }
+
+    .beetle{
+
+    }
+}
