@@ -265,4 +265,10 @@ footer h4{
         margin: 5% 10% 5% 10%;
         display: block;
     }
+
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+    }
 }
