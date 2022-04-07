@@ -5,13 +5,16 @@ Passion for cars is a site that aims to attract more people into the car communi
    ![amiresponsive-screenshot](https://user-images.githubusercontent.com/97538312/162216382-1689c6d6-5645-4d0e-be8e-bec141827149.jpg)
 
 
-   <h2>Features</h2>
-      <h3>Navigation</h3>
-      <ul>
-         <li>The navigation bar at the top of the website that stays the same across all 3 pages and contains the name of the website in the top left corner,
-            which when clicked brings you back to the top of the home page.</li>
-         <li>
-      </ul>
+## Features
+- __Navigation Bar__
+  
+  - The navigation bar at the top of the website that stays the same across all 3 pages and contains the name of the website in the top left corner,
+  which when clicked brings you back to the top of the home page.
+  - The menu elements are fully responsive across the 3 pages and adjust depending on the width of the viewport screen.
+  - The purpose if this navigation is to allow users to navigate the site easily and clearly.
+  - Additionally the menu has a style added which underlines the current page name the user is on in the menu section.
+        
+      
 
     
 
