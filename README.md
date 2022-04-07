@@ -12,9 +12,11 @@ Passion for cars is a site that aims to attract more people into the car communi
   which when clicked brings you back to the top of the home page.
   - The menu elements are fully responsive across the 3 pages and adjust depending on the width of the viewport screen.
   - The purpose if this navigation is to allow users to navigate the site easily and clearly.
+  - Upon hovering the elements in the menu the currently hovered one will change colour to aqua, indicating what the user will select.
   - Additionally the menu has a style added which underlines the current page name the user is on in the menu section.
         
-      
+   ![navigation](https://user-images.githubusercontent.com/97538312/162248981-ce35de63-53a0-4f70-ab70-3d4a750cbac1.jpg)
+ 
 
     
 
