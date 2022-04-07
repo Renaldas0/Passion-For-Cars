@@ -6,9 +6,12 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 
    <h2>Features</h2>
-   <ul>Navigation</ul>
-        <li>The navigation bar at the top of the website that stays the same across all 3 pages and contains the name of the website in the top left corner,
-        which when clicked brings you back to the top of the home page.
+      <h3>Navigation</h3>
+      <ul>
+         <li>The navigation bar at the top of the website that stays the same across all 3 pages and contains the name of the website in the top left corner,
+            which when clicked brings you back to the top of the home page.</li>
+         <li>
+      </ul>
 
     
 
