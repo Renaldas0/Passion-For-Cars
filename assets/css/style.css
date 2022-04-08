@@ -121,7 +121,10 @@ footer{
     clear: both;
 }
 
-
+footer > h3 {
+    text-align: center;
+    color: #D7A000;
+}
 
 .social-media{
     text-align: center;
