@@ -24,7 +24,13 @@ Passion for cars is a site that aims to attract more people into the car communi
     ![porsche-screenshot](https://user-images.githubusercontent.com/97538312/162434837-c1221453-4a64-4251-a69d-4ff9b6f84e5c.jpg)
     
 - __History section__
-
+   - The history section is designed to give the user a snippet of the history of cars and have them interested to learn more. 
+   - Existing car enthusiasts may not have known some of the history either so it will be something new for a large majority of users.
+   - Clickable links that open up in new browser tabs exist in this section.
+   - The first being "History of cars " heading and a link to Nicholas Joseph Cugnot (inventor of the first automobile that could carry passengers).
+   - 
+   ### History section Images
+   -
  
 
     
