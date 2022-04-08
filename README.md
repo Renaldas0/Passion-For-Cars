@@ -10,9 +10,18 @@ Passion for cars is a site that aims to attract more people into the car communi
   
   - The navigation bar at the top of the website that stays the same across all 3 pages and contains the name of the website in the top left corner,
   which when clicked brings you back to the top of the home page.
-  - The menu elements are fully responsive across the 3 pages and adjust depending on the width of the viewport screen.
+  
+
+- __Header__
+  - The header in the top left corner shows the name of the website and is clear what this site is supporting/who it is for.
+  - The colour used is a hexadecimal with the value #D7A000
+  - I chose this colour as it stands out and doesn't blend in to the background colour.
+
+- __Menu__
+  - The menu elements follow the same layout, are fully responsive across the 3 pages and adjust depending on the width of the viewport screen.
+  - When the screen width goes below 900px the menu elements float left and go under the header.
   - The purpose if this navigation is to allow users to navigate the site easily and clearly.
-  - Upon hovering the elements in the menu the currently hovered one will change colour to aqua, indicating what the user will select.
+  - Upon hovering the elements in the menu currently being hovered will change colour to aqua, indicating what the user will select.
   - Additionally the menu has a style added which underlines the current page name the user is on in the menu section.
         
    ![navigation](https://user-images.githubusercontent.com/97538312/162248981-ce35de63-53a0-4f70-ab70-3d4a750cbac1.jpg)
