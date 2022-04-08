@@ -12,9 +12,26 @@ Passion for cars is a site that aims to attract more people into the car communi
   which when clicked brings you back to the top of the home page.
   - The menu elements are fully responsive across the 3 pages and adjust depending on the width of the viewport screen.
   - The purpose if this navigation is to allow users to navigate the site easily and clearly.
+  - Upon hovering the elements in the menu the currently hovered one will change colour to aqua, indicating what the user will select.
   - Additionally the menu has a style added which underlines the current page name the user is on in the menu section.
         
-      
+   ![navigation](https://user-images.githubusercontent.com/97538312/162248981-ce35de63-53a0-4f70-ab70-3d4a750cbac1.jpg)
+   
+ - __Landing page image__
+
+   - The landing page has a main image that pops out immediately upon loading to allow the user to see they are on a car site.
+   - This image seemed very eye catching to me and aims to attract the attention of anyone who visits the site.
+    ![porsche-screenshot](https://user-images.githubusercontent.com/97538312/162434837-c1221453-4a64-4251-a69d-4ff9b6f84e5c.jpg)
+    
+- __History section__
+   - The history section is designed to give the user a snippet of the history of cars and have them interested to learn more. 
+   - Existing car enthusiasts may not have known some of the history either so it will be something new for a large majority of users.
+   - Clickable links that open up in new browser tabs exist in this section.
+   - The first being "History of cars " heading and a link to Nicholas Joseph Cugnot (inventor of the first automobile that could carry passengers).
+   - 
+   ### History section Images
+   -
+ 
 
     
 
