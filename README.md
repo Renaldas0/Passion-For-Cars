@@ -10,7 +10,8 @@ Passion for cars is a site that aims to attract more people into the car communi
   
   - The navigation bar at the top of the website that stays the same across all 3 pages and contains the name of the website in the top left corner,
   which when clicked brings you back to the top of the home page.
-  
+   
+   ![navigation](https://user-images.githubusercontent.com/97538312/162248981-ce35de63-53a0-4f70-ab70-3d4a750cbac1.jpg)
 
 - __Header__
   - The header in the top left corner shows the name of the website and is clear what this site is supporting/who it is for.
@@ -24,7 +25,7 @@ Passion for cars is a site that aims to attract more people into the car communi
   - Upon hovering the elements in the menu currently being hovered will change colour to aqua, indicating what the user will select.
   - Additionally the menu has a style added which underlines the current page name the user is on in the menu section.
         
-   ![navigation](https://user-images.githubusercontent.com/97538312/162248981-ce35de63-53a0-4f70-ab70-3d4a750cbac1.jpg)
+   
    
  - __Landing page image__
 
@@ -39,7 +40,12 @@ Passion for cars is a site that aims to attract more people into the car communi
    - The first being "History of cars " heading and a link to Nicholas Joseph Cugnot (inventor of the first automobile that could carry passengers).
    - 
    ### History section Images
-   -
+   - The images are of a Ford Model T and Volkswagen Beetle cars and are shown because the history paragraph mentions these vehicles as the most mass produced vehicles ever.
+   - The images help the user get a clear image of the vehicles without the need to go search for them if they are not aware of these cars.
+   - The images are also responsive depending on the width of the viewport , on medium devices they go under the paragraph and on small devices one image goes under the other.
+   
+   ![history-of-cars](https://user-images.githubusercontent.com/97538312/162568139-ba18e9f8-8c98-4d17-a225-a53d21d01c0c.jpg)
+
  
 
     
