@@ -10,12 +10,22 @@ Passion for cars is a site that aims to attract more people into the car communi
   
   - The navigation bar at the top of the website that stays the same across all 3 pages and contains the name of the website in the top left corner,
   which when clicked brings you back to the top of the home page.
-  - The menu elements are fully responsive across the 3 pages and adjust depending on the width of the viewport screen.
+   
+   ![navigation](https://user-images.githubusercontent.com/97538312/162248981-ce35de63-53a0-4f70-ab70-3d4a750cbac1.jpg)
+
+- __Header__
+  - The header in the top left corner shows the name of the website and is clear what this site is supporting/who it is for.
+  - The colour used is a hexadecimal with the value #D7A000
+  - I chose this colour as it stands out and doesn't blend in to the background colour.
+
+- __Menu__
+  - The menu elements follow the same layout, are fully responsive across the 3 pages and adjust depending on the width of the viewport screen.
+  - When the screen width goes below 900px the menu elements float left and go under the header.
   - The purpose if this navigation is to allow users to navigate the site easily and clearly.
-  - Upon hovering the elements in the menu the currently hovered one will change colour to aqua, indicating what the user will select.
+  - Upon hovering the elements in the menu currently being hovered will change colour to aqua, indicating what the user will select.
   - Additionally the menu has a style added which underlines the current page name the user is on in the menu section.
         
-   ![navigation](https://user-images.githubusercontent.com/97538312/162248981-ce35de63-53a0-4f70-ab70-3d4a750cbac1.jpg)
+   
    
  - __Landing page image__
 
@@ -30,9 +40,23 @@ Passion for cars is a site that aims to attract more people into the car communi
    - The first being "History of cars " heading and a link to Nicholas Joseph Cugnot (inventor of the first automobile that could carry passengers).
    - 
    ### History section Images
-   -
- 
+   - The images are of a Ford Model T and Volkswagen Beetle cars and are shown because the history paragraph mentions these vehicles as the most mass produced vehicles ever.
+   - The images help the user get a clear image of the vehicles without the need to go search for them if they are not aware of these cars.
+   - The images are also responsive depending on the width of the viewport , on medium devices they go under the paragraph and on small devices one image goes under the other.
+   
+   ![history-of-cars](https://user-images.githubusercontent.com/97538312/162568139-ba18e9f8-8c98-4d17-a225-a53d21d01c0c.jpg)
 
+- __Footer__
+   - The footer at the bottom of every page is the same 
+   - It contains a h3 element that lets the user know of the purpose behind the social media icons.
+   - The 4 icons are located in the center of the footer and allow users to follow up on this site through social media by clicking on the preferred social media.
+   - Each link opens up in a new tab and has aria-labels.
+ 
+## Gallery page
+   - The images show pictures taken at car events and the type of cars people can come across at these meetups / car shows.
+   - The purpose of this is to show users what these car events consist of and the interesting automobiles that arrive.
+   - The gallery page contains 8 images and a video that gives the viewer controls of play,pause,volume.
+   - The images are separated into columns and these columns adjust depending on the width of the viewport.
     
 
 history of cars link
