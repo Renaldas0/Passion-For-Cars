@@ -53,7 +53,10 @@ Passion for cars is a site that aims to attract more people into the car communi
    - Each link opens up in a new tab and has aria-labels.
  
 ## Gallery page
-
+   - The images show pictures taken at car events and the type of cars people can come across at these meetups / car shows.
+   - The purpose of this is to show users what these car events consist of and the interesting automobiles that arrive.
+   - The gallery page contains 8 images and a video that gives the viewer controls of play,pause,volume.
+   - The images are separated into columns and these columns adjust depending on the width of the viewport.
     
 
 history of cars link
