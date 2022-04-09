@@ -160,6 +160,14 @@ footer > h3 {
 #videos{
     width: 640px;
     height: 420px;
+    float: left;
+}
+
+#reasons-div {
+    float: right;
+    margin:3% 3% 0 0;
+    line-height: 30px;
+    letter-spacing: 3px;
 }
 
 /* sign up form page*/
