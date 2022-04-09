@@ -57,6 +57,10 @@ Passion for cars is a site that aims to attract more people into the car communi
    - The purpose of this is to show users what these car events consist of and the interesting automobiles that arrive.
    - The gallery page contains 8 images and a video that gives the viewer controls of play,pause,volume.
    - The images are separated into columns and these columns adjust depending on the width of the viewport.
+   - The final section is there to give a few reasons as to why users should check out the final page and that is to sign up to receive newsletter emails about events.
+   
+   ![gallery-page](https://user-images.githubusercontent.com/97538312/162588592-7a9e6000-893a-4571-97db-c4cca31ce1ed.jpg)
+
     
 
 history of cars link
