@@ -61,7 +61,19 @@ Passion for cars is a site that aims to attract more people into the car communi
    
    ![gallery-page](https://user-images.githubusercontent.com/97538312/162588592-7a9e6000-893a-4571-97db-c4cca31ce1ed.jpg)
 
-    
+## Sign up page
+
+   - The sign up form is there so users can select to be emailed on what events they wish to be notified of
+   - The form collects the users first name, last name, an email address and they must select 1 of the available options before submitting
+   - It is valuable to the user as it provides them with useful information in the future
+- __Features__
+   - Input fields have a transparent background
+   - The border appears when hovering over a specific input field
+   - Submit button inverts colours when hovered over
+   - Each of the inputs are required
+
+![sign-up-form](https://user-images.githubusercontent.com/97538312/162624456-d2c91861-8143-4f39-b0b0-43f4a5d0ff82.jpg)
+
 
 history of cars link
 <p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
