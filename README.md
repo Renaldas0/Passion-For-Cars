@@ -51,6 +51,9 @@ Passion for cars is a site that aims to attract more people into the car communi
    - It contains a h3 element that lets the user know of the purpose behind the social media icons.
    - The 4 icons are located in the center of the footer and allow users to follow up on this site through social media by clicking on the preferred social media.
    - Each link opens up in a new tab and has aria-labels.
+
+![footer](https://user-images.githubusercontent.com/97538312/162624909-6178d5b8-3a32-4012-aa29-3b1e90cd4047.jpg)
+
  
 ## Gallery page
    - The images show pictures taken at car events and the type of cars people can come across at these meetups / car shows.
