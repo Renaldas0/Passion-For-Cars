@@ -100,6 +100,13 @@ Passion for cars is a site that aims to attract more people into the car communi
    - I did not encounter any bugs in the development or deployment of my website
    - There are no unfixed bugs
 
+## Deployment
+   - __The site is deployed to Github pages__
+      - I went in to settings on the project repo
+      - Scrolled down to the bottom to the Github Pages section
+      - Selected the "main" branch and pressed to publish website
+  Live link - https://renaldas0.github.io/HTML-CSS-project/
+
 history of cars link
 <p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
 
