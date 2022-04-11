@@ -96,6 +96,9 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 ![lighthouse](https://user-images.githubusercontent.com/97538312/162716401-6f7cecd5-befa-4bee-b0fa-909f24778b70.jpg)
 
+## Bugs
+   - I did not encounter any bugs in the development or deployment of my website
+   - There are no unfixed bugs
 
 history of cars link
 <p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
