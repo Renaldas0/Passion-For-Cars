@@ -77,6 +77,14 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 ![sign-up-form](https://user-images.githubusercontent.com/97538312/162624456-d2c91861-8143-4f39-b0b0-43f4a5d0ff82.jpg)
 
+## Testing 
+
+   - I tested that this site works on multiple browsers such as Safari, Firefox and Chrome
+   - Checked that the site looks good on different viewports such as desktop, mobile phone and tablet by using the link in github pages
+   - I have confirmed that the form works and requires an entry into every field and the email entry will only accept email addresses
+   - Checked to make sure all text is visible clearly and easy to read
+   - All pages work 
+   - All the links open in separate browser tabs
 
 history of cars link
 <p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
