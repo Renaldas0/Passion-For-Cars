@@ -86,6 +86,17 @@ Passion for cars is a site that aims to attract more people into the car communi
    - All pages work 
    - All the links open in separate browser tabs
 
+## Validator and Lighthouse testing
+   - __HTML__
+      - No errors were found when i checked the HTML in the official W3C HTML validator
+   - __CSS__
+      - No errors were found when I checked the CSS in the official Jigsaw (CSS) validator
+   - __Accessibility__
+      - I checked that all colours and fonts chosen are easily readable and accessible by running the website through lighthouse in devtools (all 3 pages on desktop          and mobile)
+
+![lighthouse](https://user-images.githubusercontent.com/97538312/162716401-6f7cecd5-befa-4bee-b0fa-909f24778b70.jpg)
+
+
 history of cars link
 <p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
 
