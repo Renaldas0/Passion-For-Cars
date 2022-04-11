@@ -51,13 +51,32 @@ Passion for cars is a site that aims to attract more people into the car communi
    - It contains a h3 element that lets the user know of the purpose behind the social media icons.
    - The 4 icons are located in the center of the footer and allow users to follow up on this site through social media by clicking on the preferred social media.
    - Each link opens up in a new tab and has aria-labels.
+
+![footer](https://user-images.githubusercontent.com/97538312/162624909-6178d5b8-3a32-4012-aa29-3b1e90cd4047.jpg)
+
  
 ## Gallery page
    - The images show pictures taken at car events and the type of cars people can come across at these meetups / car shows.
    - The purpose of this is to show users what these car events consist of and the interesting automobiles that arrive.
    - The gallery page contains 8 images and a video that gives the viewer controls of play,pause,volume.
    - The images are separated into columns and these columns adjust depending on the width of the viewport.
-    
+   - The final section is there to give a few reasons as to why users should check out the final page and that is to sign up to receive newsletter emails about events.
+   
+   ![gallery-page](https://user-images.githubusercontent.com/97538312/162588592-7a9e6000-893a-4571-97db-c4cca31ce1ed.jpg)
+
+## Sign up page
+
+   - The sign up form is there so users can select to be emailed on what events they wish to be notified of
+   - The form collects the users first name, last name, an email address and they must select 1 of the available options before submitting
+   - It is valuable to the user as it provides them with useful information in the future
+- __Features__
+   - Input fields have a transparent background
+   - The border appears when hovering over a specific input field
+   - Submit button inverts colours when hovered over
+   - Each of the inputs are required
+
+![sign-up-form](https://user-images.githubusercontent.com/97538312/162624456-d2c91861-8143-4f39-b0b0-43f4a5d0ff82.jpg)
+
 
 history of cars link
 <p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
