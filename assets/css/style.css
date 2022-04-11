@@ -165,7 +165,7 @@ footer > h3 {
 
 #reasons-div {
     float: right;
-    margin:3% 3% 0 0;
+    margin:3% 3% 0 1%;
     line-height: 30px;
     letter-spacing: 3px;
 }
@@ -284,7 +284,7 @@ footer > h3 {
     #menu{
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 15px;
     }
     /* gallery page*/
     #images{
@@ -292,5 +292,23 @@ footer > h3 {
         line-height: 0;
         column-count: 2;
         column-gap: 0px;
+    }
+
+    #reasons-div{
+        margin-left: 20px;
+    }
+
+    footer{
+        margin-top: 20px;
+    }
+}
+
+/* Media query for small device width of up to 380px for menu*/
+@media screen and (max-width:380px) {
+    #menu{
+        float: left;
+        clear: left;
+        margin-left: 0;
+        font-size: 90%;
     }
 }
