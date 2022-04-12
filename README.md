@@ -119,7 +119,7 @@ Passion for cars is a site that aims to attract more people into the car communi
 
    - __Media__
 
-      - All images were found on pexels.com and pixabay.com
+      - All images were found on pexels.com and pixabay.com (pexels - https://www.pexels.com/ ) (pixabay - https://pixabay.com/ )
       - The video footage was taken from YouTube (Creative Commons) search results
 
 
