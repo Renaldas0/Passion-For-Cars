@@ -107,8 +107,19 @@ Passion for cars is a site that aims to attract more people into the car communi
       - Selected the "main" branch and pressed to publish website
   Live link - https://renaldas0.github.io/HTML-CSS-project/
 
-history of cars link
-<p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
+## Credits
+   - __Content__
+   
+      - I took inspiration and some styling rules from the CI Love Running Project
+      - The colours for the header were discovered using htmlcolorcodes.com (link) - https://htmlcolorcodes.com/
+      - History of cars paragraph was from wikipedia - https://en.wikipedia.org/wiki/History_of_the_automobile
+      - Nicholas Joesph Cugnot is linked to a wikipedia page - https://en.wikipedia.org/wiki/Nicolas-Joseph_Cugnot
+      - I got the icons for social media and the history of cars header from fontawesome.com - https://fontawesome.com/
+      - The font for the website was taken from google fonts - https://fonts.google.com/
 
->Nicholas Joseph Cugnot
-<p>https://en.wikipedia.org/wiki/Nicolas-Joseph_Cugnot</p>
+   - __Media__
+
+      - All images were found on pexels.com and pixabay.com
+      - The video footage was taken from YouTube (Creative Commons) search results
+
+
