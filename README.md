@@ -95,8 +95,14 @@ Passion for cars is a site that aims to attract more people into the car communi
       - No errors were found when I checked the CSS in the official Jigsaw (CSS) validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frenaldas0.github.io%2FHTML-CSS-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
    - __Accessibility__
       - I checked that all colours and fonts chosen are easily readable and accessible by running the website through lighthouse in devtools (all 3 pages on desktop          and mobile)
-
+### Index lighthouse screenshot
 ![lighthouse](https://user-images.githubusercontent.com/97538312/162716401-6f7cecd5-befa-4bee-b0fa-909f24778b70.jpg)
+### gallery lighthouse screenshot
+![gallery-lighthouse](https://user-images.githubusercontent.com/97538312/163197334-7aa81e2b-640e-4513-9c73-95e8264e7f45.jpg)
+### signup lighthouse screenshot
+![signup-lighthouse](https://user-images.githubusercontent.com/97538312/163197414-69a1ed5f-9459-4362-9597-d4c77de4caee.jpg)
+
+
 
 ## Bugs
    - I did not encounter any bugs in the development or deployment of my website
