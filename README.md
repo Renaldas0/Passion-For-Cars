@@ -1,5 +1,7 @@
 # Passion For Cars
 
+Live link - https://renaldas0.github.io/HTML-CSS-project/
+
 Passion for cars is a site that aims to attract more people into the car community and serves as a platform for existing car enthusiasts. The target audience is very broad , ranging from kids up to adults of roughly 45 years of age. The site offers a quick insight into the history of the automobile with links that can lead a user to read far beyond just the history, and the possibility to get emails sent about upcoming events depending on the users preference where they can meet other car enthusiasts.
 
    ![amiresponsive-screenshot](https://user-images.githubusercontent.com/97538312/162216382-1689c6d6-5645-4d0e-be8e-bec141827149.jpg)
@@ -88,9 +90,9 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 ## Validator and Lighthouse testing
    - __HTML__
-      - No errors were found when i checked the HTML in the official W3C HTML validator
+      - No errors were found when i checked the HTML in the official W3C HTML validator - https://validator.w3.org/nu/?doc=https%3A%2F%2Frenaldas0.github.io%2FHTML-CSS-project%2F
    - __CSS__
-      - No errors were found when I checked the CSS in the official Jigsaw (CSS) validator
+      - No errors were found when I checked the CSS in the official Jigsaw (CSS) validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frenaldas0.github.io%2FHTML-CSS-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
    - __Accessibility__
       - I checked that all colours and fonts chosen are easily readable and accessible by running the website through lighthouse in devtools (all 3 pages on desktop          and mobile)
 
@@ -105,7 +107,7 @@ Passion for cars is a site that aims to attract more people into the car communi
       - I went in to settings on the project repo
       - Scrolled down to the bottom to the Github Pages section
       - Selected the "main" branch and pressed to publish website
-  Live link - https://renaldas0.github.io/HTML-CSS-project/
+  
 
 ## Credits
    - __Content__
