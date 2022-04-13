@@ -103,10 +103,18 @@ Passion for cars is a site that aims to attract more people into the car communi
    - There are no unfixed bugs
 
 ## Deployment
-   - __The site is deployed to Github pages__
-      - I went in to settings on the project repo
-      - Scrolled down to the bottom to the Github Pages section
-      - Selected the "main" branch and pressed to publish website
+   The project was deployed to GitHub Pages using the following steps
+      - Log in to GitHub and locate the GitHub Repository
+      - At the top of the Repository (not top of page), locate the "Settings" Button on the menu
+      - Scroll down the Settings page until you locate the "GitHub Pages" Section
+      - Under "Source", click the dropdown called "None" and select "Main Branch"
+      - The page will automatically refresh 
+      - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+      
+ ## Forking the GitHub Repository
+   - Log in to GitHub and locate the GitHub Repository
+   - At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button 
+   - I got a copy of the original repository in my GitHub account
   
 
 ## Credits
@@ -118,6 +126,7 @@ Passion for cars is a site that aims to attract more people into the car communi
       - Nicholas Joesph Cugnot is linked to a wikipedia page - https://en.wikipedia.org/wiki/Nicolas-Joseph_Cugnot
       - I got the icons for social media and the history of cars header from fontawesome.com - https://fontawesome.com/
       - The font for the website was taken from google fonts - https://fonts.google.com/
+      - I followed the readme file example from the CI solutions example - https://github.com/Code-Institute-Solutions/SampleREADME
 
    - __Media__
 
