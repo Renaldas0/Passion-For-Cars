@@ -1,5 +1,7 @@
 # Passion For Cars
 
+Live link - https://renaldas0.github.io/HTML-CSS-project/
+
 Passion for cars is a site that aims to attract more people into the car community and serves as a platform for existing car enthusiasts. The target audience is very broad , ranging from kids up to adults of roughly 45 years of age. The site offers a quick insight into the history of the automobile with links that can lead a user to read far beyond just the history, and the possibility to get emails sent about upcoming events depending on the users preference where they can meet other car enthusiasts.
 
    ![amiresponsive-screenshot](https://user-images.githubusercontent.com/97538312/162216382-1689c6d6-5645-4d0e-be8e-bec141827149.jpg)
@@ -77,9 +79,64 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 ![sign-up-form](https://user-images.githubusercontent.com/97538312/162624456-d2c91861-8143-4f39-b0b0-43f4a5d0ff82.jpg)
 
+## Testing 
 
-history of cars link
-<p>https://en.wikipedia.org/wiki/History_of_the_automobile</p>
+   - I tested that this site works on multiple browsers such as Safari, Firefox and Chrome
+   - Checked that the site looks good on different viewports such as desktop, mobile phone and tablet by using the link in github pages
+   - I have confirmed that the form works and requires an entry into every field and the email entry will only accept email addresses
+   - Checked to make sure all text is visible clearly and easy to read
+   - All pages work 
+   - All the links open in separate browser tabs
 
->Nicholas Joseph Cugnot
-<p>https://en.wikipedia.org/wiki/Nicolas-Joseph_Cugnot</p>
+## Validator and Lighthouse testing
+   - __HTML__
+      - No errors were found when i checked the HTML in the official W3C HTML validator - https://validator.w3.org/nu/?doc=https%3A%2F%2Frenaldas0.github.io%2FHTML-CSS-project%2F
+   - __CSS__
+      - No errors were found when I checked the CSS in the official Jigsaw (CSS) validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frenaldas0.github.io%2FHTML-CSS-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+   - __Accessibility__
+      - I checked that all colours and fonts chosen are easily readable and accessible by running the website through lighthouse in devtools (all 3 pages on desktop          and mobile)
+### Index lighthouse screenshot
+![lighthouse](https://user-images.githubusercontent.com/97538312/162716401-6f7cecd5-befa-4bee-b0fa-909f24778b70.jpg)
+### gallery lighthouse screenshot
+![gallery-lighthouse](https://user-images.githubusercontent.com/97538312/163197334-7aa81e2b-640e-4513-9c73-95e8264e7f45.jpg)
+### signup lighthouse screenshot
+![signup-lighthouse](https://user-images.githubusercontent.com/97538312/163197414-69a1ed5f-9459-4362-9597-d4c77de4caee.jpg)
+
+
+
+## Bugs
+   - I did not encounter any bugs in the development or deployment of my website
+   - There are no unfixed bugs
+
+## Deployment
+   The project was deployed to GitHub Pages using the following steps
+      - Log in to GitHub and locate the GitHub Repository
+      - At the top of the Repository (not top of page), locate the "Settings" Button on the menu
+      - Scroll down the Settings page until you locate the "GitHub Pages" Section
+      - Under "Source", click the dropdown called "None" and select "Main Branch"
+      - The page will automatically refresh 
+      - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+      
+ ## Forking the GitHub Repository
+   - Log in to GitHub and locate the GitHub Repository
+   - At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button 
+   - I got a copy of the original repository in my GitHub account
+  
+
+## Credits
+   - __Content__
+   
+      - I took inspiration and some styling rules from the CI Love Running Project
+      - The colours for the header were discovered using htmlcolorcodes.com (link) - https://htmlcolorcodes.com/
+      - History of cars paragraph was from wikipedia - https://en.wikipedia.org/wiki/History_of_the_automobile
+      - Nicholas Joesph Cugnot is linked to a wikipedia page - https://en.wikipedia.org/wiki/Nicolas-Joseph_Cugnot
+      - I got the icons for social media and the history of cars header from fontawesome.com - https://fontawesome.com/
+      - The font for the website was taken from google fonts - https://fonts.google.com/
+      - I followed the readme file example from the CI solutions example - https://github.com/Code-Institute-Solutions/SampleREADME
+
+   - __Media__
+
+      - All images were found on pexels.com and pixabay.com (pexels - https://www.pexels.com/ ) (pixabay - https://pixabay.com/ )
+      - The video footage was taken from YouTube (Creative Commons) search results
+
+
