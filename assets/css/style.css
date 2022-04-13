@@ -263,9 +263,6 @@ footer > h3 {
     }
 }
 
-
-
-
 /* Media queries for small width devices up to 900px */
 @media screen and (max-width:900px) {
     #history .ford{
@@ -296,10 +293,6 @@ footer > h3 {
 
     #reasons-div{
         margin-left: 20px;
-    }
-
-    footer{
-        margin-top: 20px;
     }
 }
 
