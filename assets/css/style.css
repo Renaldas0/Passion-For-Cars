@@ -121,11 +121,6 @@ footer{
     clear: both;
 }
 
-footer > h3 {
-    text-align: center;
-    color: #D7A000;
-}
-
 .social-media{
     text-align: center;
 
@@ -294,6 +289,11 @@ footer > h3 {
     #reasons-div{
         margin-left: 20px;
     }
+}
+
+/* Media query targetting beetle and ford images width up to 470px*/
+@media screen and (max-width:470px) {
+
 }
 
 /* Media query for small device width of up to 380px for menu*/
