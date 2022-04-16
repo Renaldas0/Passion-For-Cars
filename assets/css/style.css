@@ -291,11 +291,6 @@ footer{
     }
 }
 
-/* Media query targetting beetle and ford images width up to 470px*/
-@media screen and (max-width:470px) {
-
-}
-
 /* Media query for small device width of up to 380px for menu*/
 @media screen and (max-width:380px) {
     #menu{
