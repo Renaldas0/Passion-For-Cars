@@ -105,7 +105,10 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 
 ## Bugs
-   - I did not encounter any bugs in the development or deployment of my website
+   - A bug i encountered at the start was with the responsive design of the beetle and ford model t images on devices samller than 470px wide
+   - The images would become pixelated due to being sized down too much
+   - I fixed this by bringing the images into photoshop and resizing them to less pixels
+   
    - There are no unfixed bugs
 
 ## Deployment
