@@ -119,14 +119,8 @@ Passion for cars is a site that aims to attract more people into the car communi
       - Scroll down the Settings page until you locate the "GitHub Pages" Section
       - Under "Source", click the dropdown called "None" and select "Main Branch"
       - The page will automatically refresh 
-      - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-      
- ## Forking the GitHub Repository
-   - Log in to GitHub and locate the GitHub Repository
-   - At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button 
-   - I got a copy of the original repository in my GitHub account
+      - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section
   
-
 ## Credits
    - __Content__
    
