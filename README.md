@@ -54,7 +54,8 @@ Passion for cars is a site that aims to attract more people into the car communi
    - The 4 icons are located in the center of the footer and allow users to follow up on this site through social media by clicking on the preferred social media.
    - Each link opens up in a new tab and has aria-labels.
 
-![footer](https://user-images.githubusercontent.com/97538312/162624909-6178d5b8-3a32-4012-aa29-3b1e90cd4047.jpg)
+![footer-screenshot](https://user-images.githubusercontent.com/97538312/163669440-e8baff24-eff9-4859-8ea3-e129e318e759.jpg)
+
 
  
 ## Gallery page
@@ -105,7 +106,10 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 
 ## Bugs
-   - I did not encounter any bugs in the development or deployment of my website
+   - A bug i encountered at the start was with the responsive design of the beetle and ford model t images on devices samller than 470px wide
+   - The images would become pixelated due to being sized down too much
+   - I fixed this by bringing the images into photoshop and resizing them to less pixels
+   
    - There are no unfixed bugs
 
 ## Deployment
@@ -115,14 +119,8 @@ Passion for cars is a site that aims to attract more people into the car communi
       - Scroll down the Settings page until you locate the "GitHub Pages" Section
       - Under "Source", click the dropdown called "None" and select "Main Branch"
       - The page will automatically refresh 
-      - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-      
- ## Forking the GitHub Repository
-   - Log in to GitHub and locate the GitHub Repository
-   - At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button 
-   - I got a copy of the original repository in my GitHub account
+      - Scroll back down through the page to locate the now published site link in the "GitHub Pages" section
   
-
 ## Credits
    - __Content__
    
