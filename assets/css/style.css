@@ -289,6 +289,17 @@ footer{
     #reasons-div{
         margin-left: 20px;
     }
+
+    .form-signup{
+        position: absolute;
+        width:80% ;
+        height: 450px;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
 }
 
 /* Media query for small device width of up to 380px for menu*/
