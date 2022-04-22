@@ -50,7 +50,6 @@ Passion for cars is a site that aims to attract more people into the car communi
 
 - __Footer__
    - The footer at the bottom of every page is the same 
-   - It contains a h3 element that lets the user know of the purpose behind the social media icons.
    - The 4 icons are located in the center of the footer and allow users to follow up on this site through social media by clicking on the preferred social media.
    - Each link opens up in a new tab and has aria-labels.
 
